@@ -17,7 +17,7 @@
 
         <div class="container mx-auto">
             <header class="py-6 mb-8">
-                <h1><img alt="Laravue" src="/images/alien-logo.png" style="height:75px;"></h1>
+                <h1><router-link class="text-black"  to="/" exact><img alt="Laravue" src="/images/alien-logo.png" style="height:75px;"></router-link></h1>
             </header>
 
                 <main class="flex">
